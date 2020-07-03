@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B31D8E20-3027-412F-A5A1-58F423B3B067"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F265559-46FC-485F-B0AB-645A0C4F86FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarioParty/ViewControllers/PlyerDetailsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "PlyerDetailsVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5F265559-46FC-485F-B0AB-645A0C4F86FE - cb75f5ee39b7d011"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarioParty.PlyerDetailsVC.nameLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MarioParty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/norabader/Documents/GitHub/ios-hw-5/MarioParty/MarioParty/ViewControllers/PlyerDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "5F265559-46FC-485F-B0AB-645A0C4F86FE - 52a3fc5f70e001d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarioParty.PlyerDetailsVC.nameLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MarioParty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/norabader/Documents/GitHub/ios-hw-5/MarioParty/MarioParty/ViewControllers/PlyerDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "5F265559-46FC-485F-B0AB-645A0C4F86FE - 6b70b1f40faf3412"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarioParty.PlyerDetailsVC.nameLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MarioParty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/norabader/Documents/GitHub/ios-hw-5/MarioParty/MarioParty/ViewControllers/PlyerDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "5F265559-46FC-485F-B0AB-645A0C4F86FE - 598b0991f4549e69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarioParty.PlyerDetailsVC.nameLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MarioParty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/norabader/Documents/GitHub/ios-hw-5/MarioParty/MarioParty/ViewControllers/PlyerDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "5F265559-46FC-485F-B0AB-645A0C4F86FE - 3452db1c31cb9c6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarioParty.PlyerDetailsVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MarioParty.PlyerDetailsVC"
+                  moduleName = "MarioParty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/norabader/Documents/GitHub/ios-hw-5/MarioParty/MarioParty/ViewControllers/PlyerDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "257">
+               </Location>
+               <Location
+                  uuid = "5F265559-46FC-485F-B0AB-645A0C4F86FE - f0755eb2dcf323fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarioParty.PlyerDetailsVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MarioParty.PlyerDetailsVC&gt;"
+                  moduleName = "MarioParty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/norabader/Documents/GitHub/ios-hw-5/MarioParty/MarioParty/ViewControllers/PlyerDetailsVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "198">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
